@@ -1,0 +1,125 @@
+{
+  "Artists": [
+    {
+      "ArtistGenre": "Pop Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/PopMusic.png",
+      "ArtistRecordLabel": "OVO sound",
+      "ArtistName": "Drake",
+      "ArtistDescription": "Artist who strated his career as an Actor on a popular show",
+      "ArtistWebsite": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "ArtistGenre": "Pop Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/PopMusic.png",
+      "ArtistRecordLabel": "Big Machine Records",
+      "ArtistName": "Taylor Swift",
+      "ArtistDescription": "Taylor Alyson Swift sigs about her personal life in soungs such as trouble and lover",
+      "ArtistWebsite": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "ArtistGenre": "Pop Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/PopMusic.png",
+      "ArtistRecordLabel": "XO",
+      "ArtistName": "The Weeknd",
+      "ArtistDescription": "Toronto based song writer bestknown for his unique voice",
+      "ArtistWebsite": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "ArtistGenre": "Pop Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/PopMusic.png",
+      "ArtistRecordLabel": "Capitol Records",
+      "ArtistName": "Sam Smith",
+      "ArtistDescription": "UK singer knwon for his love songs",
+      "ArtistWebsite": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+    },
+    {
+      "ArtistGenre": "Pop Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/PopMusic.png",
+      "ArtistRecordLabel": "Interscope Records",
+      "ArtistName": "Billie Eilish",
+      "ArtistDescription": "18 year old american song writer who got famous in 2016",
+      "ArtistWebsite": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "ArtistGenre": "Indian Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/IndianMusic.jpg",
+      "ArtistRecordLabel": "T-series",
+      "ArtistName": "Sidhu Moose Wala",
+      "ArtistDescription": "punjabi singer and performer best known for his bhagnra music",
+      "ArtistWebsite": "https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ"
+    },
+    {
+      "ArtistGenre": "Indian Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/IndianMusic.jpg",
+      "ArtistRecordLabel": "Zee Music",
+      "ArtistName": "Arjit Singh",
+      "ArtistDescription": "Arguably the biggest singing name in India right now, best known for his slow and sad songs",
+      "ArtistWebsite": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+    },
+    {
+      "ArtistGenre": "Indian Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/IndianMusic.jpg",
+      "ArtistRecordLabel": "Tips Industries",
+      "ArtistName": "Atif Aslam",
+      "ArtistDescription": "Pakistani singer who is also very well intigrated into the indian music industry",
+      "ArtistWebsite": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx?autoplay=true&v=A"
+    },
+    {
+      "ArtistGenre": "Indian Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/IndianMusic.jpg",
+      "ArtistRecordLabel": "Prestige Records",
+      "ArtistName": "Imran Khan",
+      "ArtistDescription": "UK singer and rapper, hes is caapable of making music in multilple different languages",
+      "ArtistWebsite": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+    },
+    {
+      "ArtistGenre": "Indian Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/IndianMusic.jpg",
+      "ArtistRecordLabel": "T-series",
+      "ArtistName": "Zack Knight",
+      "ArtistDescription": "Best known for Melodies and song compliations",
+      "ArtistWebsite": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP?autoplay=true&v=A"
+    },
+    {
+      "ArtistGenre": "Rap Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/RapMusic.png",
+      "ArtistRecordLabel": "Roc-a-fella records",
+      "ArtistName": "Kanye West",
+      "ArtistDescription": "American rapper, singer and songwriter born in Chicaago",
+      "ArtistWebsite": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+      "ArtistGenre": "Rap Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/RapMusic.png",
+      "ArtistRecordLabel": "Roc Nation",
+      "ArtistName": "Lil Uzi Vert",
+      "ArtistDescription": "25 year old rapper from Philidelphia, real name Symere Woods",
+      "ArtistWebsite": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+    },
+    {
+      "ArtistGenre": "Rap Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/RapMusic.png",
+      "ArtistRecordLabel": "Victor Victor Worldwide",
+      "ArtistName": "Pop Smoke",
+      "ArtistDescription": "20 yer old rapper that just recently got mainstream befeoe he was killed in February 2020",
+      "ArtistWebsite": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+    },
+    {
+      "ArtistGenre": "Rap Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/RapMusic.png",
+      "ArtistRecordLabel": "Top Dawg Entertainment",
+      "ArtistName": "Kendrick Lamar",
+      "ArtistDescription": "From the town of COmpton, kkendrick is now 32 years old",
+      "ArtistWebsite": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "ArtistGenre": "Rap Music",
+      "ArtistImage": "http://mason.gmu.edu/~mkhan75/IT315/RapMusic.png",
+      "ArtistRecordLabel": "UMG",
+      "ArtistName": "Trippie Redd",
+      "ArtistDescription": "First got famous with the late xxxtentacion on his album 17",
+      "ArtistWebsite": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+    }
+  ],
+  "Status": "OK"
+}
